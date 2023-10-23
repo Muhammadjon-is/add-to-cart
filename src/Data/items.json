@@ -1,0 +1,27 @@
+[
+{
+    "id":1,
+    "name":"F1 car",
+    "price":10000000,
+    "imgUrl":"/img/img1.png"
+},
+{
+    "id":2,
+    "name":"F1 car",
+    "price":18000000 ,
+    "imgUrl":"/img/img2.png"
+},
+{
+    "id":3,
+    "name":"F1 car",
+    "price":14000000 ,
+    "imgUrl":"/img/img3.png"
+},
+{
+    "id":4,
+    "name":"F1 car",
+    "price":12000000,
+    "imgUrl":"/img/img4.png"
+} 
+
+]
